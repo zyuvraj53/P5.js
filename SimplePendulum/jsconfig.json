@@ -1,0 +1,9 @@
+{
+  "include": [
+    "*.js",
+    "libraries/*.js",
+    "c:\\Users\\Yuvraj\\.vscode\\extensions\\samplavigne.p5-vscode-1.2.6\\p5types\\global.d.ts"
+  ]
+}
+
+//var bird = data.birds[1].members[2];

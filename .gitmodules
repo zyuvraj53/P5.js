@@ -1,0 +1,12 @@
+[submodule "p5.jsDiscordQuestion/TowerOfHanoiVisual"]
+	path = p5.jsDiscordQuestion/TowerOfHanoiVisual
+	url = https://github.com/gibbonsjacob/TowerOfHanoiVisual.git
+[submodule "Fractal-Tree"]
+	path = Fractal-Tree
+	url = https://github.com/xxMrPHDxx/Fractal-Tree.git
+[submodule "p5.jsDiscordQuestion/p5-shape-generator"]
+	path = p5.jsDiscordQuestion/p5-shape-generator
+	url = https://github.com/DirtDeodara/p5-shape-generator.git
+[submodule "p5.jsDiscordQuestion/--force"]
+	path = p5.jsDiscordQuestion/--force
+	url = https://github.com/DirtDeodara/p5-shape-generator.git
