@@ -16,7 +16,7 @@ function draw() {
   let x = 0;
   let y = 0;
 
-  for (let i = 0; i < 2/*slider.value()*/; i++) {
+  for (let i = 0; i < 4/*slider.value()*/; i++) {
     let prevx = x;
     let prevy = y;
 

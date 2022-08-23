@@ -1,0 +1,1 @@
+Just explains about static function.
